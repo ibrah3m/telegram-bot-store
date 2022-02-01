@@ -1,0 +1,25 @@
+2 table 
+
+
+1 for chat 
+Columns
+
+   
+
+    id
+
+    listen
+
+    listen_data
+   
+    lvl
+
+
+
+2 for orders
+
+chat id 
+dxn id 
+dxn prouducts     	
+v2 
+more simple code in add prod file  from 15,264 word to 2,027 from 739line to 109
